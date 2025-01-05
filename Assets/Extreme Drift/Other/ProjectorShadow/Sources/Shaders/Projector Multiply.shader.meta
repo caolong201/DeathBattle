@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac96f5c0b697340a887ac2bd77a0bddc
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/ProjectorShadow/Sources/Shaders/Projector
+    Multiply.shader
+  uploadId: 178070

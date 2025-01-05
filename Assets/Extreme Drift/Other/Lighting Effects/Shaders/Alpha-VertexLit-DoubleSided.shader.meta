@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 21f75ff91f2142242a87067b5dd3cb9d
+timeCreated: 1476084674
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Alpha-VertexLit-DoubleSided.shader
+  uploadId: 178070

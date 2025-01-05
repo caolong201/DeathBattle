@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b07d674e95c4ee243af199d75b273520
+timeCreated: 1480678124
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Models/TrackObjects/Object1/Textures/TextShader.shader
+  uploadId: 178070

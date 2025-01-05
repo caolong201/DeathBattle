@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d3af1c22d672d04bb16eca243cccc3a
+timeCreated: 1487929880
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/GUIs/Animations/1X (DriftScore).controller
+  uploadId: 178070

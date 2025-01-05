@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f83723800f25ef419b480a2886c9e54
+timeCreated: 1491658847
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/GUIs/GUIs/Other/Materials/RainDrop.mat
+  uploadId: 178070

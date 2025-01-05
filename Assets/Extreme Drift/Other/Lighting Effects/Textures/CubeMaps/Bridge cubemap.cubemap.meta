@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 64ab6bcb5ec39d14ba0f0240dd30f789
+timeCreated: 1476088047
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Textures/CubeMaps/Bridge
+    cubemap.cubemap
+  uploadId: 178070

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e9a473134fc97ed40ab0113b9f59ff23
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Terrain/4Splat_Unity5.shader
+  uploadId: 178070

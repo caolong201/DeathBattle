@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7240d5f9cdec5714d8b3da5c6e72e73d
+timeCreated: 1479972508
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/Materials/wall.mat
+  uploadId: 178070

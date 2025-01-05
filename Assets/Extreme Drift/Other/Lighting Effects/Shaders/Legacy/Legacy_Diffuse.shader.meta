@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b2ffc9c2603d7744aa679074776bc126
+timeCreated: 1473367856
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Legacy/Legacy_Diffuse.shader
+  uploadId: 178070

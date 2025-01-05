@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7585410935db0e64aaa974970a0ae1ad
+timeCreated: 1432164006
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/GUIs/Animations/FadeIn.anim
+  uploadId: 178070

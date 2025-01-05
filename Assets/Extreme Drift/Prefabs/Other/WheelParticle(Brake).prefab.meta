@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13170f87e1ad5bb4695a37d4559d4588
+timeCreated: 1488265788
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Prefabs/Other/WheelParticle(Brake).prefab
+  uploadId: 178070

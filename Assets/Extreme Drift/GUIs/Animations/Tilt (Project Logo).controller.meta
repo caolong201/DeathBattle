@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8ab7a10ca0c29a4fa0f231008fdf2ef
+timeCreated: 1492835731
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/GUIs/Animations/Tilt (Project Logo).controller
+  uploadId: 178070

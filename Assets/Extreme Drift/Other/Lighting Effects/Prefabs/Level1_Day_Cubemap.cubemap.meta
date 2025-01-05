@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e236c4049a4b3f4085cc4da54692040
+timeCreated: 1476087759
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Prefabs/Level1_Day_Cubemap.cubemap
+  uploadId: 178070

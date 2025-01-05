@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab70c098a52a04be88096d20e1540cb8
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/ProjectorShadow/Sources/Shaders/Projector
+    Light.shader
+  uploadId: 178070

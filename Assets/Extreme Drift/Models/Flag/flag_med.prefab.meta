@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df8b2e05e6bc70e4eb740280ce078f7f
+timeCreated: 1466870754
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Models/Flag/flag_med.prefab
+  uploadId: 178070

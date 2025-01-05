@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94c21ba215c28594a9b0fa5b9ab9c0db
+timeCreated: 1456300289
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Sounds/Game/Car/Car.mixer
+  uploadId: 178070

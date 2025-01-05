@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93b7d5e214938304f862183c0981a226
+timeCreated: 1479808047
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Models/RaceTracks/RaceTrack1/Materials/ground.mat
+  uploadId: 178070

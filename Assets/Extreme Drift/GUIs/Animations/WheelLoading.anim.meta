@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56afd93fe6ed1de41ab096609add17ca
+timeCreated: 1491904750
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/GUIs/Animations/WheelLoading.anim
+  uploadId: 178070

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60f045f3755918045831cee3729283c7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Skidmarks/Skidmarks Essentials/Skidmarks.cs
+  uploadId: 178070

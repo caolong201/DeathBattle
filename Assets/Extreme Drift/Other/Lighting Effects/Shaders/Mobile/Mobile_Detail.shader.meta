@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 757bb7adf72c3d9498316481f6050e39
+timeCreated: 1473363723
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Mobile/Mobile_Detail.shader
+  uploadId: 178070

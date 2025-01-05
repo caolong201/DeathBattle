@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ce9628db977cc14fb03ea77d1d4c04f
+timeCreated: 1491039939
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Models/Lowpoly Vehicles/Models/Helicopter/Animations/Helicopter.controller
+  uploadId: 178070

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: eb82cbeb20d639748831701626fa9ff3
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Other/TransparentRef.shader
+  uploadId: 178070

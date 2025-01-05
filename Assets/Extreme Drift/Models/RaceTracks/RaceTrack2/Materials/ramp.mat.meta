@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c40308937cf24024a8372fee6a8ebc13
+timeCreated: 1479972508
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Models/RaceTracks/RaceTrack2/Materials/ramp.mat
+  uploadId: 178070

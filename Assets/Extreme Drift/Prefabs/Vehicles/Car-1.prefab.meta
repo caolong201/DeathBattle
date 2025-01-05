@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 452ceb2d3f0f17e4891b9489fa118e74
+timeCreated: 1489151579
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Prefabs/Vehicles/Car-1.prefab
+  uploadId: 178070

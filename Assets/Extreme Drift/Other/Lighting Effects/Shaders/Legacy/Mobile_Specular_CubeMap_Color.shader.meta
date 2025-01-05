@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7560e0fcfe3b7cf4fab9247d65b4dba9
+timeCreated: 1476087481
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Legacy/Mobile_Specular_CubeMap_Color.shader
+  uploadId: 178070

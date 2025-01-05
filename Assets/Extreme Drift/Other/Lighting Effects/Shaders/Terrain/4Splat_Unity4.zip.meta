@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf30f58cea8e65840afde6a076fbd4ac
+timeCreated: 1475224790
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Terrain/4Splat_Unity4.zip
+  uploadId: 178070

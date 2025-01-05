@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de5f330d887d39a4183a4e1e3faf8db6
+timeCreated: 1476046068
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Legacy/Legacy_Specular_Detail.shader
+  uploadId: 178070

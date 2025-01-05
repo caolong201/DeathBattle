@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f67161c6b48f5fd479ea0474a01122db
+timeCreated: 1473368328
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Shaders/Mobile/Mobile_Specular.shader
+  uploadId: 178070

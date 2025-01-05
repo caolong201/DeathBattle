@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac7c36daae1e84b41a3d8e2ce3cd770c
+timeCreated: 1475251929
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 88601
+  packageName: Extreme Drift
+  packageVersion: 1.0
+  assetPath: Assets/Extreme Drift/Other/Lighting Effects/Textures/Diffuse/Materials/MetalDoor_Diff.mat
+  uploadId: 178070

@@ -16,10 +16,6 @@ public class OncoliisionController : MonoBehaviour
         //Debug.Log( this.name +" -- va cham --" + collision.gameObject.name);
 
 
-        //foreach (ContactPoint contact in other.contacts)
-        //{
-        //    Debug.DrawRay(contact.point, contact.normal, Color.red, 2f);
-        //}
 
 
 
